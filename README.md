@@ -2,7 +2,7 @@
 #### I am Business Data Analyst 
 ![I am Business Data Analyst ](https://github.com/moorthymadhanraj/Data_Analysis_BI_AI/blob/main/prof-photo.png)
 
-I am a Business Data Analyst helping organizations to make better decisions. I can establish BI Solutions!!! 
+I am a Business Data Analyst helping organizations to make better decisions. I can establish BI Solutions!!!! 
 
 With broad understanding in data analysis and business intelligence strategies, I am confident in my capabilities to deliver valuable insights that propel business growth.
 
