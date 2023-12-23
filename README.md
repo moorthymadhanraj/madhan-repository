@@ -13,6 +13,4 @@ Skills: MS Excel / SQL / Power BI / MS Azure / Python / Apache Spark
 - 💬 Ask me about *Technology & Business Intelligence* 
 - 📫 How to reach me: moorthymadhanraj@outlook.com 
 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/moorthymadhanraj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/madhan-raj-moorthy-09a929214//)  
-
