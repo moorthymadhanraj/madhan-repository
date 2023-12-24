@@ -3,7 +3,7 @@
 ### Hi there 👋, My name is Raj
 #### I am Business Intelligence Data Analyst 
 
-I am a BI Data Analyst helping organizations to make better decisions. I can establish BI Solutions!!!! 
+Helping organizations to make better decisions. I can establish BI Solutions!!!! 
 
 With broad understanding in data analysis and business intelligence strategies, I am confident in my capabilities to deliver valuable insights that propel business growth.
 
