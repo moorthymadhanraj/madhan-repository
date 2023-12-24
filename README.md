@@ -9,9 +9,12 @@ With broad understanding in data analysis and business intelligence strategies, 
 
 Skills: MS Excel / SQL / Power BI / MS Azure / Python / Apache Spark
 
-- 🌱 I’m currently learning *Microsoft Power BI Data Analyst Professional Certificate* 
-- 🤔 I’m looking for help with *finding a new job* 
-- 💬 Ask me about *Technology & Business Intelligence* 
+- 🌱 I’m currently learning *Microsoft Power BI Data Analyst Professional Certificate*
+ 
+- 🤔 I’m looking for help with *finding a new job*
+ 
+- 💬 Ask me about *Technology & Business Intelligence*
+  
 - 📫 How to reach me: moorthymadhanraj@outlook.com 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/moorthymadhanraj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/madhan-raj-moorthy-09a929214//)  
