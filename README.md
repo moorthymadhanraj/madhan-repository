@@ -1,6 +1,7 @@
+![I am Business Data Analyst ](https://github.com/moorthymadhanraj/Data_Analysis_BI_AI/blob/main/prof-photo.png)
+
 ### Hi there 👋, My name is Raj
 #### I am Business Data Analyst 
-![I am Business Data Analyst ](https://github.com/moorthymadhanraj/Data_Analysis_BI_AI/blob/main/prof-photo.png)
 
 I am a Business Data Analyst helping organizations to make better decisions. I can establish BI Solutions!!!! 
 
