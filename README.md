@@ -16,7 +16,7 @@ With broad understanding in data analysis and business intelligence strategies, 
  
 🤔 I’m looking for help with *finding a new job*
  
-💬 Ask me about *Technology & Business Intelligence*
+💬 Ask me about *Technology, Data Analysis, Business Intelligence & Life*
   
 📫 How to reach me: moorthymadhanraj@outlook.com 
 
