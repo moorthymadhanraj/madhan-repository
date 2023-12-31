@@ -1,4 +1,4 @@
-![I am Business Data Analyst ](https://github.com/moorthymadhanraj/Data_Analysis_BI_AI/blob/main/prof-photo.png)
+![I am Business Data Analyst ]([https://github.com/moorthymadhanraj/Data_Analysis_BI_AI/blob/main/prof-photo.png](https://github.com/moorthymadhanraj/moorthymadhanraj/blob/master/gh-prof.png))
 
 ### Hi there 👋, My name is Raj
 #### I am Business Intelligence Data Analyst 
