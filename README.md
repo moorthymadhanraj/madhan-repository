@@ -9,14 +9,12 @@ With broad understanding in data analysis and business intelligence strategies, 
 
 ### Skills: MS Excel / SQL / Power BI / MS Azure / Python / Apache Spark
 
-<li>
 • Programming Languages: Python, SQL
 • Big Data Technologies: Apache Hadoop, Apache Spark
 • Data Processing Libraries: Pandas, NumPy, SciPy, Matplotlib
 • Data Visualization: Seaborn
 • Parallel Programming: Multiprocessing
 • Data Structures and Algorithms: OOP
-</li>
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>  </p>
