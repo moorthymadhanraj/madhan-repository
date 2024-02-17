@@ -14,7 +14,10 @@ With broad understanding in data analysis and business intelligence strategies, 
 **• Data Processing Libraries:** Pandas, NumPy, SciPy, Matplotlib </br>
 **• Data Visualization:** Seaborn, MS Power BI, Tableau </br>
 **• Parallel Programming:** Multiprocessing </br>
-**• Data Structures and Algorithms:** OOP
+**• Data Structures and Algorithms:** OOP </br>
+**• Web Development(CMS) and E-Commerce:** WordPress, WooCommerce, Shopify,  </br>
+**• Google Eco-System:** Analytics, Tag Manager, Firebase  </br>
+**• Microsoft Eco-System:** MS 365, Power App, Power BI Service
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>  </p>
