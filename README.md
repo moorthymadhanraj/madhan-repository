@@ -10,7 +10,7 @@ With broad understanding in data analysis and business intelligence strategies, 
 ### Skills: MS Excel / SQL / Power BI / MS Azure / Python / Apache Spark
 
 
-<b> • Programming Languages:</b> Python, SQL </br>
+**• Programming Languages:** Python, SQL </br>
 </b> • Big Data Technologies: Apache Hadoop, Apache Spark </br>
 </b> • Data Processing Libraries: Pandas, NumPy, SciPy, Matplotlib </br>
 </b> • Data Visualization: Seaborn </br>
