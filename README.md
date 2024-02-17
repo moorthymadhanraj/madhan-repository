@@ -12,7 +12,7 @@ With broad understanding in data analysis and business intelligence strategies, 
 **• Programming Languages:** Python, SQL </br>
 **• Big Data Technologies:** Apache Hadoop, Apache Spark </br>
 **• Data Processing Libraries:** Pandas, NumPy, SciPy, Matplotlib </br>
-**• Data Visualization:** Seaborn </br>
+**• Data Visualization:** Seaborn, MS Power BI, Tableau </br>
 **• Parallel Programming:** Multiprocessing </br>
 **• Data Structures and Algorithms:** OOP
 
@@ -25,6 +25,6 @@ With broad understanding in data analysis and business intelligence strategies, 
  
 💬 Ask me about *Technology, Data Analysis, Business Intelligence & Life*
   
-📫 How to reach me: moorthymadhanraj@outlook.com 
+📫 How to reach me: moorthymadhanraj@outlook.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/moorthymadhanraj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/madhan-raj-moorthy-09a929214//)
