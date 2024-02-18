@@ -10,14 +10,15 @@ With broad understanding in data analysis and business intelligence strategies, 
 ### Skills: MS Excel / SQL / Power BI / MS Azure / Python / Apache Spark
 
 **• Programming Languages:** Python, SQL </br>
-**• Big Data Technologies:** Apache Hadoop, Apache Spark </br>
-**• Data Processing Libraries:** Pandas, NumPy, SciPy, Matplotlib </br>
-**• Data Visualization:** Seaborn, MS Power BI, Tableau </br>
+**• Big Data Technologies:** Apache Spark, Apache Hadoop </br>
+**• Data Processing Libraries:** Pandas, NumPy, Matplotlib </br>
+**• Data Visualization:** MS Power BI, Seaborn, Tableau </br>
 **• Parallel Programming:** Multiprocessing </br>
 **• Data Structures and Algorithms:** OOP </br>
-**• Web Development(CMS) and E-Commerce:** WordPress, WooCommerce, Shopify,  </br>
+**• Web Development(CMS) and E-Commerce:** WordPress, WooCommerce, Shopify </br>
 **• Google Eco-System:** Analytics, Tag Manager, Firebase  </br>
-**• Microsoft Eco-System:** MS 365, Power App, Power BI Service
+**• Microsoft Eco-System:** MS 365, Power App, Power BI Service, Azure Services - Databricks & Data Factory </br>
+**• Amazon Eco-System:** AWS S3, EC2 Instance</br>
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>  </p>
