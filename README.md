@@ -7,12 +7,12 @@ Helping organizations to make better decisions. I can establish BI Solutions!!!
 
 With broad understanding in data analysis and business intelligence strategies, I am confident in my capabilities to deliver valuable insights that propel business growth.
 
-### Skills: MS Excel / SQL / Power BI / MS Azure / Python / Apache Spark
+### Skills: MS Excel / SQL / MS Power BI / MS Azure / Python / Apache Spark
 
 **• Programming Languages:** Python, SQL </br>
-**• Big Data Technologies:** Apache Spark, Apache Hadoop </br>
 **• Data Processing Libraries:** Pandas, NumPy, Matplotlib </br>
 **• Data Visualization:** MS Power BI, Seaborn, Tableau </br>
+**• Big Data Technologies:** Apache Spark, Apache Hadoop </br>
 **• Parallel Programming:** Multiprocessing </br>
 **• Data Structures and Algorithms:** OOP </br>
 **• Web Development(CMS) and E-Commerce:** WordPress, WooCommerce, Shopify </br>
